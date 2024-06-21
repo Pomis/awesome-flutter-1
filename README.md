@@ -144,6 +144,7 @@ Inspired by;
 * [Using MQTT With Flutter to Build a Location Sharing App](https://medium.com/swlh/using-mqtt-with-flutter-to-build-a-location-sharing-app-24e7307b21d3)
 * [Apple Sign In with Flutter & Firebase Authentication](https://codewithandrea.com/videos/2020-01-20-apple-sign-in-flutter-firebase/)
 * [Flutter Developer Roadmap](https://roadmap.sh/flutter)
+* Common mistakes with [Images](https://medium.com/@pomis172/common-mistakes-with-images-in-flutter-aba46288e20d), [ListViews](https://medium.com/@pomis172/common-mistakes-with-listviews-in-flutter-f22e7dacfaf7)
 
 
 ## Tutorial Series
